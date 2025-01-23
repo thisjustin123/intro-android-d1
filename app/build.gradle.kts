@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.cornellappdev.introandroid.d1"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.cornellappdev.introandroid.d1"
